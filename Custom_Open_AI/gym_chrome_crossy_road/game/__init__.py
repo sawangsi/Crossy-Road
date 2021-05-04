@@ -1,0 +1,1 @@
+from gym_chrome_crossy_road.game.crossy_road_game import CrossyRoadGame
